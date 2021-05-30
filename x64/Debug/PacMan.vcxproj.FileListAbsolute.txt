@@ -1,0 +1,2 @@
+C:\Users\Cruz\source\repos\PacMan\x64\Debug\PacMan.exe
+C:\Users\Cruz\source\repos\PacMan\x64\Debug\PacMan.pdb
